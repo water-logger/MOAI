@@ -1,6 +1,6 @@
 # Main Tutorial
 
-Alright, so you wanna learn about the Linux/Unix shell? This is not the right place to be, but I can tell you about some stuff.
+Alright, so you wanna learn about the Linux/Unix shell, ***Sean***? This is not the right place to be, but I can tell you about some stuff.
 
 ## Terminal Emulators
 
