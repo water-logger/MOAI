@@ -9,7 +9,7 @@ There are many terminal emulators out there, but I'm gonna tell you about the on
 #### Termux
 
 If you have an Android 7+ device, you can install terminal emulator named "Termux".
-It's basiclly the best terminal emulator for Android. It has a ton of packages, it can make virtual machines, and it can even be used for ethical hacking.
+It's basically the best terminal emulator for Android. It has a ton of packages, it can make virtual machines, and it can even be used for ethical hacking.
 
 #### WSL
 
