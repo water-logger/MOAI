@@ -1,2 +1,3 @@
 # MOAI
-wth
+
+This is just some C ascii art.
